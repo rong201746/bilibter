@@ -24,7 +24,7 @@
 
 ```bash
 
-python bilibter.py
+python main.py
 #或bilibter.exe
 
 
